@@ -54,31 +54,23 @@ Visualization of unemployment duration (short- vs. long-term)
 
 ## How to Run
 
-Clone the repo:
+1) Clone the repo:
 
-git clone https://github.com/Elvi3n/Python-Canada-Youth-Unemployment-Analysis.git
-cd canada-youth-unemployment
+    git clone https://github.com/Elvi3n/Python-Canada-Youth-Unemployment-Analysis.git
+    cd canada-youth-unemployment
 
+2) Create & activate virtual environment:
 
-Create & activate virtual environment:
+    python -m venv .venv
+   
+    .\.venv\Scripts\activate   # (Windows)
+    source .venv/bin/activate  # (Mac/Linux)
 
+3) Install requirements:
 
-python -m venv .venv
-.\.venv\Scripts\activate   # (Windows)
-source .venv/bin/activate  # (Mac/Linux)
+    pip install -r requirements.txt
 
-
-Install requirements:
-
-pip install -r requirements.txt
-
-
-Open Jupyter Notebook:
-
-jupyter notebook
-
-
-Run Canada_Youth_Unemployment_Analysis.ipynb.
+4) Run Notebook
 
 
 ## License

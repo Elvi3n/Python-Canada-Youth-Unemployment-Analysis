@@ -56,7 +56,7 @@ Visualization of unemployment duration (short- vs. long-term)
 
 Clone the repo:
 
-git clone https://github.com/<your-username>/canada-youth-unemployment.git
+git clone https://github.com/Elvi3n/Python-Canada-Youth-Unemployment-Analysis.git
 cd canada-youth-unemployment
 
 

@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-**What is the trend and characteristics of Youth Unemployment in Canada**
+**What is the trend and characteristics of Youth Unemployment in Canada?**
 
 ### Motivation
 
@@ -18,7 +18,9 @@ Research consistently shows that downturns disproportionately affect young worke
    - **Statistics Canada**: Labour force (employment, participation, unemployment), unemployment **duration** buckets
 
       - Labour force characteristics by age group, monthly, seasonally adjusted (14-10-0287-02)
+         - https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410028702
       - Duration of unemployment, monthly, seasonally adjusted (14-10-0342-01)
+         - https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410034201
   
    **Scope & Frequency**
    - **Temporal coverage:** **monthly**; the project’s time span is defined by the **longest overlapping duration across all datasets** *(In this project, that resolves to ~1978–2025.)*  

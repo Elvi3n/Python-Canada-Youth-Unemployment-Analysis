@@ -18,10 +18,10 @@ Research shows youth are especially vulnerable in labour markets:
 Open, authoritative sources from Statistics Canada:
 
 - Labour force by age group, monthly, seasonally adjusted
-    - Table 14-10-0287-02 (https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410028702)
+    - Table 14-10-0287-02 (https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410028701&pickMembers%5B0%5D=1.1&pickMembers%5B1%5D=3.1&pickMembers%5B2%5D=4.1&pickMembers%5B3%5D=5.1&cubeTimeFrame.startMonth=01&cubeTimeFrame.startYear=1976&cubeTimeFrame.endMonth=08&cubeTimeFrame.endYear=2025&referencePeriods=19760101%2C20250801)
 
 - Duration of unemployment, monthly, seasonally adjusted
-    - Table 14-10-0342-01 (https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410034201)
+    - Table 14-10-0342-01 (https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410034201&pickMembers%5B0%5D=1.1&pickMembers%5B1%5D=3.2&pickMembers%5B2%5D=4.1&pickMembers%5B3%5D=5.1&cubeTimeFrame.startMonth=01&cubeTimeFrame.startYear=1976&cubeTimeFrame.endMonth=08&cubeTimeFrame.endYear=2025&referencePeriods=19760101%2C20250801)
 
 ## Scope & Frequency
 

@@ -49,8 +49,7 @@ Age group: 15–24 (the most consistent youth definition in Canadian labour forc
 
 - Unemployment duration: proportion of youth unemployed 27+ weeks has grown steadily, showing signs of structural job search frictions.
 
-<img width="1493" height="990" alt="unemploymentComparasion" src="https://github.com/user-attachments/assets/2beddc99-35c7-429f-bc2f-c3e8c556d6cc" />
-
+<img width="1493" height="990" alt="unemploymentComparasion" src="https://github.com/user-attachments/assets/7a1dd6e1-9a0b-4f9e-bf87-a1a669cf4bba" />
 
 ## How to Run
 

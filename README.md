@@ -41,15 +41,16 @@ Correlation analysis between participation and unemployment
 
 Visualization of unemployment duration (short- vs. long-term)
 
-## Results (Highlights)
+## Key Results
 
-Youth unemployment rate has risen sharply since 2022, reaching ~14.5% in 2025, which double the national average of .
+- Youth unemployment rate has risen sharply since 2022, reaching ~14.5% in 2025, which double the national average of .
 
-Gap vs. adult unemployment is at its widest since 2010 (excluding the COVID-19 shock).
+- Gap vs. adult unemployment is at its widest since 2010 (excluding the COVID-19 shock).
 
-Unemployment duration: proportion of youth unemployed 27+ weeks has grown steadily, showing signs of structural job search frictions.
+- Unemployment duration: proportion of youth unemployed 27+ weeks has grown steadily, showing signs of structural job search frictions.
 
-(Insert a key figure or GIF here, e.g., line plot of youth vs. adult unemployment, stacked duration area chart, correlation scatterplot.)
+<img width="1493" height="990" alt="unemploymentComparasion" src="https://github.com/user-attachments/assets/4a75bcb1-d4d1-4bf4-b194-078289576e71" />
+
 
 ## How to Run
 

@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-**What is the trend and characteristics of Youth Unemployment in Canada?**
+**What are the trend and characteristics of Youth Unemployment in Canada?**
 
 ### Motivation
 

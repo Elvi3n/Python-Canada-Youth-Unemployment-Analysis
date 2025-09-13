@@ -8,9 +8,9 @@
 
 Research consistently shows that downturns disproportionately affect young workers. For example:
 
-- Entry-level jobs (≤ 1 year experience) declined ~30% year-over-year in 2024 [add source link].
-- Youth unemployment currently exceeds the overall unemployment rate, with the widest gap in 30+ years [add source link].
-- Growing AI adoption may be eroding entry-level roles by automating tasks historically done by junior staff [add source link].
+- Entry-level jobs (≤ 1 year experience) declined ~30% year-over-year in 2024 (Government of Canada, 2024).
+- Youth unemployment currently exceeds the overall unemployment rate, with the widest gap in 30+ years (Gridneff, 2025).
+- Growing AI adoption may be eroding entry-level roles by automating tasks historically done by junior staff (Violino, 2025).
 
 ### Dataset Compilation
 
@@ -29,4 +29,3 @@ Research consistently shows that downturns disproportionately affect young worke
 ### Deliverables
    - Reproducible notebook and scripts
    - Visual EDA
-

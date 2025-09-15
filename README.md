@@ -23,6 +23,8 @@ Open, authoritative sources from Statistics Canada:
 - Duration of unemployment, monthly, seasonally adjusted
     - Table 14-10-0342-01 (https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410034201&pickMembers%5B0%5D=1.1&pickMembers%5B1%5D=3.2&pickMembers%5B2%5D=4.1&pickMembers%5B3%5D=5.1&cubeTimeFrame.startMonth=01&cubeTimeFrame.startYear=1976&cubeTimeFrame.endMonth=08&cubeTimeFrame.endYear=2025&referencePeriods=19760101%2C20250801)
 
+**Download Options > CSV - Download entire table**
+
 ## Scope & Frequency
 
 Temporal coverage: monthly (~1978–2025, depending on overlap across datasets).

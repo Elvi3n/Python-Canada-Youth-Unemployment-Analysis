@@ -3,6 +3,13 @@
 
 This project investigates the trends and characteristics of youth unemployment in Canada (ages 15–24), using official labour market datasets spanning ~1978–2025. The goal is to highlight how economic downturns, structural changes disproportionately affect young workers.
 
+├── data/              # raw data (or links to sources if >100MB)
+├── cleaned_data/      # processed datasets
+├── notebooks/         # Jupyter notebooks (analysis, EDA, modeling)
+├── reports/           # PDFs, figures, presentations
+├── requirements.txt   # dependencies
+├── README.md 
+
 ## Motivation
 
 Research shows youth are especially vulnerable in labour markets:

@@ -64,7 +64,7 @@ Age group: 15–24 (the most consistent youth definition in Canadian labour forc
 
 <img width="1493" height="990" alt="unemploymentComparasion" src="https://github.com/user-attachments/assets/7a1dd6e1-9a0b-4f9e-bf87-a1a669cf4bba" />
 
-## How to Run
+## Set up
 
 1) Clone the repo:
 

@@ -5,11 +5,11 @@ This project investigates the trends and characteristics of youth unemployment i
 
 ```
 Python-Canada-Youth-Unemployment-Analysis/
-├── data/              # raw data (or links to sources if >100MB)
-├── cleaned_data/      # processed datasets
-├── notebooks/         # Jupyter notebooks (analysis, EDA, modeling)
-├── reports/           # PDFs, figures, presentations
-├── requirements.txt   # dependencies
+├── data/              
+├── cleaned_data/      
+├── notebooks/         
+├── reports/           
+├── requirements.txt   
 ├── LICENSE
 ├── README.md 
 ```

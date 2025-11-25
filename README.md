@@ -1,4 +1,4 @@
-# Canada Youth Unemployment Analysis
+# GLOCAL Canada Youth Unemployment Analysis
 ## Project Overview
 
 This project investigates the trends and characteristics of youth unemployment in Canada (ages 15–24), using official labour market datasets spanning ~1978–2025. The goal is to highlight how economic downturns, structural changes disproportionately affect young workers, as research shows:
@@ -50,17 +50,6 @@ Age group: 15–24 (the most consistent youth definition in Canadian labour forc
 
 - Visualization of unemployment duration (short- vs. long-term)
 
-## Repo Structure
-```
-Python-Canada-Youth-Unemployment-Analysis/
-├── data/              
-├── cleaned_data/      
-├── notebooks/                  
-├── requirements.txt   
-├── LICENSE
-└── README.md 
-```
-
 ## Set up
 
 1) Create & activate virtual environment:
@@ -72,6 +61,17 @@ Python-Canada-Youth-Unemployment-Analysis/
 2) Install requirements:
 
     - pip install -r requirements.txt
+
+## Repo Structure
+```
+Python-Canada-Youth-Unemployment-Analysis/
+├── data/              
+├── cleaned_data/      
+├── notebooks/                  
+├── requirements.txt   
+├── LICENSE
+└── README.md 
+```
 
 ## License
 

@@ -17,7 +17,8 @@ This project investigates the trends and characteristics of youth unemployment i
 
 - Unemployment duration: proportion of youth unemployed for 6+ months has grown steadily, showing signs of structural job search frictions.
 
-<img width="1493" height="990" alt="unemploymentComparasion" src="https://github.com/user-attachments/assets/7a1dd6e1-9a0b-4f9e-bf87-a1a669cf4bba" />
+<img width="1000" height="568" alt="UnempDuration" src="https://github.com/user-attachments/assets/cbbce39a-b705-4435-b792-4c9ef5278af4" />
+
 
 
 ## Dataset Compilation

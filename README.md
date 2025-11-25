@@ -67,7 +67,8 @@ Age group: 15–24 (the most consistent youth definition in Canadian labour forc
 ```
 Python-Canada-Youth-Unemployment-Analysis/
 ├── data/              
-├── cleaned_data/      
+├── cleaned_data/
+├── figures/           
 ├── notebooks/                  
 ├── requirements.txt   
 ├── LICENSE
